@@ -122,6 +122,8 @@ def page_fifth():
                 You can find all medals and medalists distributions with the possibility 
                 to look into country and/or discipline. 
 
+                Flags pictures from [SOURCE FLAGS](https://github.com/linuxmint/flags).
+                
                 If you are interested in sport data you can check 
                 [Tokyo 2020 Olympics](https://www.kaggle.com/piterfm/tokyo-2020-olympics) and 
                 [Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)
