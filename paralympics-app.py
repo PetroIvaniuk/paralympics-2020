@@ -13,7 +13,7 @@ def main():
         "About": page_fifth,
     }
 
-    st.set_page_config(page_title='Tokyo 2020 Paralympic Game', layout="wide")
+    st.set_page_config(page_title='Tokyo 2020 Paralympics', layout="wide")
     st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
     _, col01, _ = st.columns((2, 2, 2))
     with col01:
@@ -123,7 +123,7 @@ def page_fifth():
                 to look into country and/or discipline. 
 
                 Flags pictures from [SOURCE FLAGS](https://github.com/linuxmint/flags).
-                
+
                 If you are interested in sport data you can check 
                 [Tokyo 2020 Olympics](https://www.kaggle.com/piterfm/tokyo-2020-olympics) and 
                 [Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)

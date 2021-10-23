@@ -17,7 +17,6 @@ If you are interested in sport data you can check
 I hope you enjoy!
 
 #### **Contacts:**
-[![](https://img.shields.io/badge/GitHub-Follow-informational)](https://github.com/PetroIvaniuk)
-
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/petro-ivaniuk-68a89432/)
+
 ###### © Petro Ivaniuk, 2021
