@@ -1,5 +1,4 @@
-# paralympics-2020
-# Tokyo 2020 Paralympic
+# Tokyo 2020 Paralympics, Analytics
 
 Thanks for checking out my app! It was built entirely using 
 [matplotlib](https://matplotlib.org/) and 
