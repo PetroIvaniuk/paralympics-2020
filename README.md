@@ -14,7 +14,9 @@ If you are interested in sport data you can check
 [Tokyo 2020 Olympics](https://www.kaggle.com/piterfm/tokyo-2020-olympics) and 
 [Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/petroivaniuk/paralympics-2020/main/paralympics-app.py). I hope you enjoy!
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/petroivaniuk/paralympics-2020/main/paralympics-app.py)
+
+I hope you enjoy!
 
 #### **Contacts:**
 [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/petro-ivaniuk-68a89432/)
