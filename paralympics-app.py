@@ -145,7 +145,7 @@ if __name__ == "__main__":
     path_medalists = 'data/medalists.pkl'
     path_medalists_athlete = 'data/medalists_athlete.pkl'
 
-    img_path_flag = 'img/flags/usr/share/iso-flag-png/'
+    img_path_flag = 'img/flags/'
     img_path_medal = 'img/medals/'
     img_path_dis = 'img/paralympic/'
 
